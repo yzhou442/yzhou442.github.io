@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming PhD Student, Computer Science Department, Carnegie Mellon University
+subtitle:
 
 profile:
   align: right
