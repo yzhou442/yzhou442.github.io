@@ -17,7 +17,7 @@ selected_papers: true
 social: true
 ---
 
-I am an incoming Ph.D. student in the Computer Science Department at Carnegie Mellon University, advised by [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). I am a member of the [CMU Catalyst research group](https://catalyst.cs.cmu.edu/).
+I am an incoming Ph.D. student in the Computer Science Department at Carnegie Mellon University, under the esteemed guidance of [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). I am a member of the [CMU Catalyst research group](https://catalyst.cs.cmu.edu/).
 
 My research interests lie at the intersection of **machine learning systems**, **large language models**, and **AI agents**.
 
