@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-our-paper-mirage-persistent-kernel-is-accepted-to-osdi-2026-we-introduce-a-compiler-and-runtime-that-automatically-mega-kernelizes-tensor-programs-for-high-performance-multi-gpu-llm-inference",
-          title: 'Our paper Mirage Persistent Kernel is accepted to OSDI 2026! We introduce a...',
+        },{id: "news-our-paper-mirage-persistent-kernel-is-accepted-to-osdi-2026-mpk-reduces-end-to-end-llm-inference-latency-by-up-to-1-7x-over-existing-systems-pushing-performance-close-to-hardware-limits",
+          title: 'Our paper Mirage Persistent Kernel is accepted to OSDI 2026! MPK reduces end-to-end...',
           description: "",
           section: "News",},{
         id: 'social-email',
