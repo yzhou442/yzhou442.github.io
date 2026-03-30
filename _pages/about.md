@@ -23,7 +23,7 @@ My research interests lie at the intersection of **machine learning systems**, *
 
 Prior to my Ph.D., I completed my Master's degree at Carnegie Mellon University, and received my Bachelor's degree from City University of Hong Kong.
 
----
+## Open Source
 
 <i class="fa-brands fa-github"></i> [**Mirage**](https://github.com/mirage-project/mirage) a superoptimizer that automatically discovers highly-optimized GPU kernels for machine learning applications
 
